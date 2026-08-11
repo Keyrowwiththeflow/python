@@ -1,0 +1,4 @@
+# Using the for loop to create a silly sentece using different nouns from a list.
+nouns = ["tree", "shoe", "bird", "weather", "home", "paper", "tornado", "clothes", "bean", "door"]
+for x in nouns:
+    print("When I was walking, I came across a " + x + " and there was a massive " + x + " in its grasp! And then, I looked around. That's when I saw the robber, a small, blue " + x + ". Now, the " + x + " was not the greatest, but choosing a shoe as its " + x + "?! That's absurd! That's like using " + x + " or something equally insane for a house in a " + x + "! It was raining, so my " + x + " were completely soaked. If I were the " + x + " in Jack and the Beanstalk story, I'd be reaching the clouds, honestly. I'd be a symbol of the " + x + " to immortality.")

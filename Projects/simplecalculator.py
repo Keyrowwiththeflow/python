@@ -1,0 +1,6 @@
+int1 = int(input("Choose a number:"))
+int2 = int(input("Choose a number:"))
+print(int1 + int2)
+print(int1 - int2)
+print(int1 * int2)
+print(int1 / int2)

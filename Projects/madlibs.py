@@ -1,0 +1,6 @@
+noun1 = input("Enter a noun: ")
+pnoun1 = input("Enter a plural noun: ")
+noun2 = input("Enter a noun: ")
+place = input("Enter a place: ")
+adjective = input("Enter an adjective: ")
+print("Sometimes I like to eat a " + noun1 + ". I especially like eating it with a lot of " + pnoun1 + ". But eating a " + noun2 + " is a close second! Bonus points if it's in a " + place + ". I just love how " + adjective + " it is!")
